@@ -10,4 +10,11 @@ Our solution consists of 3 parts: **`Named Data Networking (NDN)`**, **`modified
 ## Users
 Like access to electricity and indoor plumbing, broadband Internet should be seen as a utility necessity. However, 34 million Americans lack access to quality Internet (of which **23 million** do not have access to broadband) due to various reasons.
 
-<font color = "green">Our off-grid Internet design fulfills this gap by tailoring it to those with low quality or no access.</font> It’s likely that this group has at least one of the following characteristics: 1) low socioeconomic status, 2) reside in difficult, isolated, or hazardous geographic zones, 3) have between 1–2 Internet service providers (ISPs), or 4) low education level. Income may be the most transparent factor as it correlates to the geographic variations of the amount of ISPs and education level. Currently, 80 – 90% of the most affluent households in the United States have Internet at home, in contrast to 50% of the those with the lowest median income. With that, our team will target rural communities as poverty and disability rates are higher than urban areas. Additionally they have less physical and financial access to resources, which translates to very few ISPs; thus, a lack of competition leads to overpriced and poor quality of services. 1 in 3 have only 1 ISP and majority of the rest have only 2.
+Our off-grid Internet design fulfills this gap by tailoring it to those with low quality or no access. It’s likely that this group has at least one of the following characteristics: 
+
+  1) low socioeconomic status
+  2) reside in difficult, isolated, or hazardous geographic zones
+  3) have between 1–2 Internet service providers (ISPs)
+  4) low education level. 
+
+Income may be the most transparent factor as it correlates to the geographic variations of the amount of ISPs and education level. Currently, 80 – 90% of the most affluent households in the United States have Internet at home, in contrast to 50% of the those with the lowest median income. With that, our team will target rural communities as poverty and disability rates are higher than urban areas. Additionally they have less physical and financial access to resources, which translates to very few ISPs; thus, a lack of competition leads to overpriced and poor quality of services. 1 in 3 have only 1 ISP and majority of the rest have only 2.
