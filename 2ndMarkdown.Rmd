@@ -1,0 +1,123 @@
+---
+title: "Operation Phoenix"
+output: html_document
+---
+<style type = 'text/css'>
+h1.title {
+  color: #ffa44c;
+}
+</style>
+
+## Biographies
+
+**Marios Dardas** (*Main Leader & Developer*): 
+
+<br>
+**Anastassios Dardas** (*Designer & Co-developer*): Currently a 3rd year PhD student at McMaster University, specializing in spatio-temporal health geography. He believes that by integrating the disciplines of `GIS` and `data science` together can develop more effective decision-making processes and predictions including Mozilla's Internet challenge.  
+
+<br>
+**Charles Burke** (*Advisor*): 
+<br>
+
+## Problem Statement 
+Despite the differences between the two challenges, we (**Operation Phoenix**) noticed both intertwine to one another. Therefore, our team aims to design and develop a universal system that tackles the off-grid Internet and smart community networks challenge at the same time. 
+
+## Solution Statement 
+Getting the unconnected online successfully including those in dire situations will require a combination of strategies given the unique circumstances facing each community. `Named Data Networking (NDN)` is the core solution we propose to ensure a universally stable and exceptionally fast internet experience. NDN is a recent development in network protocols providing faster speeds and more security than the existing TCP/IP protocol on the internet. It works with all existing infrastructure and can communicate with the well established TCP/IP protocol. Additionally, our solution incorporates both existing and new hardware to forge a resilient network supported by a mesh-networks of routers, antennas, and white noise. 
+
+## Users
+Generally, we are targeting specific users whom have **at least one of the following criteria**: 
+
+* Low socioeconomic status - most affluent households (80 - 90%) have internet at home, whereas regions in the US with the lowest median income only 50% have access. Income tends to play a larger role than geography.[5]
+
+* Reside in difficult, isolated, and/or hazardous geographic zones. 
+
+* Monopolized internet service providers- 1 in 3 Americans only have one choice for broadband service, most of the others only have two internet providers to choose from [9].
+
+* Low literacy rates / education level 
+
+* Language barriers and low connection speeds. 
+
+<br>
+
+## Technical Feasibility 
+1. *Design*: 
+
+    <p>Due to the wide spectrum of unique geographical, infrastructural, and economic challenges posed, our solution        will be from macro to nano scale approach. At the macro level (geographic swath i.e. 60 sq km.), we'll be            doing three alternative designs which will be dictated based on geographies, sociodemographic informations,          and cost-benefit analyses. Our design focuses on:</p> 
+
+    <p>
+      * White noise (old television / radio broadcasting frequencies no longer used)
+      * Hybrid of cell towers and white noise
+      * Cell towers only
+
+    </p>
+    <p>Telco companies have been 'piggy backing' in the past on railroads, electrical lines, natural gas pipelines,        and other early existing infrastructure in order to minimize costs and zoning legalities. Our first priority is       to piggy back the white noise infrastructure due to wide swath availability and being the cheapest option. We        are well aware that white noise infrastructure is old technology and likely choke connection speed; however, we       have alternative methods that would indirectly increase the speed or known as *`improved pseudo-connection`*,        which will be discussed in technical capabilities. 
+  <br>  
+  The next priority is hybrid of cell towers and white noise. This will be in a defined geographic areas where some    will have cell service, but parts of the area will only have white noise. Lastly, apply in areas where cell          towers only exist in specific geographic regions.</p> 
+
+2. *Technical Capabilities*: 
+    
+    <p>
+      * Macro-scale: White noise, Microwaves (installed on cell towers) with combined bandwidth of 42 GBPs 
+    </p>
+    <p>
+      * Micro-scale: Mini-microwaves / wireless routers with bandwidth of 7 GBPs installed on trees / tall objects 
+        + Rugged, low-cost router allowing for versatile yet reliable communications. 
+        + Hybrid of existing server and routing technologies 
+        + Operated via NDN & caching 
+        + Sporting up to 4 antennas, an ethernet port, a quad-core 1 GHz processor, 1 GB RAM, and 500 GB hard-drive
+        + Solar-powered w/ battery storage technology
+        + Pre-set up of mesh networks 
+    </p>
+    <p>
+      * Nano-scale: Antennas installed in homes with bandwidth of 50 mbps & software platform
+        + Platform includes connections within mesh networks & NDN friendly 
+    </p> 
+    <p>
+    We define improved pseudo-connection speed as a process in which the internet connection seems to have increased, but in reality it is not. Rather than increasing bandwidth via fiber-optic cable, we are combining NDN, `caching`, and `mesh-networks` as our new internet architecture. As mentioned earlier, NDN accelerates the online search process via specific text content (think of it as a directory but easier) without going through the often clogged-up TCP/IP protocols. Caching is storing all-ready downloaded information in the hard-drive of micro-scale routers. This would be based on visits (and revisits) from the users. User can then search in the hard drive and have it downloaded nearly-instantly on their computers. Mesh networks would be comprised of peer-to-peer communications amongst the rural residents. Each network would have their own content in the router's hard-drive, which accessed residents can use it to share and download information directly; thus, reducing latency. 
+    </p>
+3. *Technical Hurdles* - 
+4. *Stage of Development* - 
+
+<br>
+
+## Differentiation 
+* Protocol - NDN and caching 
+* Microwave technologies 
+
+<br>
+
+## Affordability 
+
+
+<br>
+
+
+## Social Impact 
+
+
+<br>
+
+
+## Scalability 
+
+
+<br>
+
+
+## Openness
+There are countless of resources to showcase our design to the general public. For professional and development purposes, we decide to share our progress through three different types of mediums - <a href='https://github.com'>Github</a>, <a href = 'https://storymaps.arcgis.com/en/'>Esri's StoryMap</a>, and <a href = 'https://shiny.rstudio.com'>Shiny App IO</a>. **`Github`** is quite popular on the web with the proper format to display and update documentation. Additionally, it fosters a professional social networking atmosphere. **`Esri's StoryMap`** has aesthetically pleasing templates to build on a story of the project and display geospatial data on maps, which we intend to incorporate our Shiny App. **`Shiny App IO`** or Shiny via RStudio is somewhat simple, yet powerful for the audience to interact with our beta design including identifying digital divide areas. 
+
+<br> 
+
+## Previous Awards 
+* <a href = 'https://www.hackthecity.ca/single-post/2017/03/07/How-to-change-a-city'>**Hack the City (1st place) 2017**</a>: Off-Grid Energy Design via *Blockchain Technologies & Gamification*
+
+* <a href = 'https://esricanada-ce.github.io/appchallenge/2017/teams/mac/Marauders_mAPP/'>**ECCE App Challenge (3rd place) 2017**</a>: Sustainable Transportation via *Conscious Commuter*
+
+* <a href = 'http://ecce.esri.ca/app-challenge/2016/maraudersmApp/Try%20Me!/GetStarted.html'>**ECCE App Challenge (3rd place) 2016**</a>: Sustainable Cities via *Potential 2 Grow*
+
+* **Bayes Impact Hackathon (Honorable Mention) 2016 **: *Predict Future Hazmat Incidents* 
+
+
+
