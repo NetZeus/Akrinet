@@ -1,2 +1,0 @@
-# Akrinet
-Internet Challenge
