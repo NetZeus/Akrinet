@@ -1,1 +1,8 @@
+# Internet Challenge
+**10%** of all Americans (34 million people) lack access to quality Internet connectivity. <a href = "" >The Smart Community Networks Challenge</a> aims to close this access gap by enhancing wireless connectivity in areas where Internet access is a challenge, whether due to geographic, financial or other factors. With a total of **$1M** in prize money, the Smart Community Networks Challenge seeks wireless solutions that leverage existing physical infrastructure to provide robust access to the whole Internet in underserved areas. 
 
+## Our Problem Statement
+The primary issue facing communities in need of greater access to the internet is infrastructure. The backbone of the internet is essentially composed of cables due their reliability and speed. Satellite and other wireless methods are alternative options yet these methods are undercut by geographical, meteorological, and other constraints. Provided little commercial interest and small government funding bottlenecks access to these communities or require them to set up their own infrastructure. 
+
+## Our Solution Statement 
+Our solution consists of 3 parts: **`Named Data Networking (NDN)`**, **`modified routers`**, and a **`networking logistics`** tool. NDN, a development in network protocols, is key to our project. Providing more security and faster browsing speeds over the existing TCP/IP protocol, it will achieve quick and reliable online access. The hardware leverages a low cost router to run NDN and establish a mesh-network. Our networking logistics assists communities with assessing, planning, and setting up internet access.
