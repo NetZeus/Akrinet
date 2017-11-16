@@ -17,7 +17,7 @@ Charles Burke did his master’s in Public Policy at University of Windsor (Wind
 Previous Awards
 ===============
 
--   **Hack the City (1st place) 2017**: Off-grid Energy Design via
+-   <a href = "https://www.hackthecity.ca/single-post/2017/03/07/How-to-change-a-city">**Hack the City (1st place) 2017**</a>: Off-grid Energy Design via
     *Blockchain Technologies & Gamification*
 
 -   **ECCE App Challenge (3rd place) 2017**: Sustainable Transportation
