@@ -8,7 +8,7 @@ The primary issue facing communities in need of greater access to the internet i
 Our solution consists of 3 parts: **`Named Data Networking (NDN)`**, **`modified routers`**, and a **`networking logistics`** tool. NDN, a development in network protocols, is key to our project. Providing more security and faster browsing speeds over the existing TCP/IP protocol, it will achieve quick and reliable online access. The hardware leverages a low cost router to run NDN and establish a mesh-network. Our networking logistics assists communities with assessing, planning, and setting up internet access.
 
 ## Users
-Like access to electricity and indoor plumbing, broadband Internet should be seen as a utility necessity. However, 34 million Americans lack access to quality Internet (of which **23 million** do not have access to broadband) due to various reasons **[1]**.
+Like access to electricity and indoor plumbing, broadband Internet should be seen as a utility necessity. However, 34 million Americans lack access to quality Internet (of which **23 million** do not have access to broadband) due to various reasons **\[[1][1]]**.
 
 **Internet Speed**
 [![Speed Map](https://github.com/NetZeus/Akrinet/blob/master/Images/18yiv2rhdghz9png.png)](https://gizmodo.com/americas-internet-inequality-a-map-of-whos-got-the-b-1057686215)
@@ -73,6 +73,8 @@ Our hardware accommodates several mediums of transferring information on existin
 By design our solution incorporates the best security practices. The device will run mainline Linux ensuring it is secured with up to date packages and modules at no cost to user. Furthermore, adopting the NDN protocol requires that information needs to be encrypted in transit until reaching the requester of the data. Furthermore the architecture of NDN reinforces security by addressing content by name rather than by address (such as IP). Since requests are routed based on content rather than an address, those addresses will be less susceptible to concentrated/targeted attacks. Additionally, network congestion could be reduced with more routers allowing for cached content to be distributed. NDN, however, has its’ own set of tradeoffs and caveats; for instance instead of addresses being targeted for a DDoS attack, content could be targeted instead causing congestions in the network. At this early stage and scale of adoption this won’t be a concern. Ultimately, the NDN protocol goes beyond the security measures of the current TCP/IP protocol given that the protocol does not include security by design and is largely left to participants in the network.
 
 ## References 
+[1]:http://bit.ly/2unN8Y2
+
 1. Levitz, J. (2017, June 5). Rural America Is Stranded in the Dial-Up Age. *The Wall Street Journal*, Retrieved from:          http://bit.ly/2unN8Y2
 
 2. Blelberg, J. and West, D. (2014, Dec. 10). Barriers to Universal Internet Access. *Brookings Institute*, Retrieved from: http://brook.gs/2ilKvCK
