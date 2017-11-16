@@ -23,8 +23,8 @@ Previous Awards
 -   **ECCE App Challenge (3rd place) 2017**: Sustainable Transportation
     via *Conscious Commuter*
 
--   **ECCE App Challenge (3rd place) 2016**: Sustainable Cities via
-    *Potential 2 Grow*
+-   <a href = "https://github.com/EsriCanada-CE/ecce-app-challenge-2016/tree/master/maraudersmApp">**ECCE App Challenge (3rd place) 2016**</a>: Sustainable Cities via
+    <a href = "http://ecce.esri.ca/app-challenge/2016/maraudersmApp/Try%20Me!/GetStarted.html">*Potential 2 Grow*</a>
 
 -   **Bayes Impact Hackathon (Honorable Mention) 2016**: *Predict Future
     Hazmat Incidents*
