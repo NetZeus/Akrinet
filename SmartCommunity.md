@@ -10,6 +10,8 @@ Our solution consists of 3 parts: **`Named Data Networking (NDN)`**, **`modified
 ## Users
 Like access to electricity and indoor plumbing, broadband Internet should be seen as a utility necessity. However, 34 million Americans lack access to quality Internet (of which **23 million** do not have access to broadband) due to various reasons **[1]**.
 
+![Speed Map]()
+
 Our off-grid Internet design fulfills this gap by tailoring it to those with low quality or no access. It’s likely that this group has at __least one of the following characteristics__: 
 
         1) Low socioeconomic status (<= Federal Poverty Line) 
