@@ -26,5 +26,5 @@ Previous Awards
 -   <a href = "https://github.com/EsriCanada-CE/ecce-app-challenge-2016/tree/master/maraudersmApp">**ECCE App Challenge (3rd place) 2016**</a>: Sustainable Cities via
     <a href = "http://ecce.esri.ca/app-challenge/2016/maraudersmApp/Try%20Me!/GetStarted.html">*Potential 2 Grow*</a>
 
--   < a href = "https://github.com/bayeshack2016/team-hazmap">**Bayes Impact Hackathon (Honorable Mention) 2016**</a>: *Predict Future
+-   <a href = "https://github.com/bayeshack2016/team-hazmap">**Bayes Impact Hackathon (Honorable Mention) 2016**</a>: *Predict Future
     Hazmat Incidents*
