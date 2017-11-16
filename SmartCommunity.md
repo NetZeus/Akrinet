@@ -10,7 +10,7 @@ Our solution consists of 3 parts: **`Named Data Networking (NDN)`**, **`modified
 ## Users
 Like access to electricity and indoor plumbing, broadband Internet should be seen as a utility necessity. However, 34 million Americans lack access to quality Internet (of which **23 million** do not have access to broadband) due to various reasons **[1]**.
 
-[![Speed Map](https://github.com/NetZeus/Akrinet/blob/master/Images/18yiv2rhdghz9png.png)][https://i.kinja-img.com/gawker-media/image/upload/s--X5ZzCuWC--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/18yiv2rhdghz9png.png]
+[![Speed Map](https://github.com/NetZeus/Akrinet/blob/master/Images/18yiv2rhdghz9png.png)](https://gizmodo.com/americas-internet-inequality-a-map-of-whos-got-the-b-1057686215)
 
 Our off-grid Internet design fulfills this gap by tailoring it to those with low quality or no access. It’s likely that this group has at __least one of the following characteristics__: 
 
