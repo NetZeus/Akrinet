@@ -8,7 +8,7 @@ The primary issue facing communities in need of greater access to the internet i
 Our solution consists of 3 parts: **`Named Data Networking (NDN)`**, **`modified routers`**, and a **`networking logistics`** tool. NDN, a development in network protocols, is key to our project. Providing more security and faster browsing speeds over the existing TCP/IP protocol, it will achieve quick and reliable online access. The hardware leverages a low cost router to run NDN and establish a mesh-network. Our networking logistics assists communities with assessing, planning, and setting up internet access.
 
 ## Users
-Like access to electricity and indoor plumbing, broadband Internet should be seen as a utility necessity. However, 34 million Americans lack access to quality Internet (of which **23 million** do not have access to broadband) due to various reasons.
+Like access to electricity and indoor plumbing, broadband Internet should be seen as a utility necessity. However, 34 million Americans lack access to quality Internet (of which **23 million** do not have access to broadband) due to various reasons **[1]**.
 
 Our off-grid Internet design fulfills this gap by tailoring it to those with low quality or no access. It’s likely that this group has at __least one of the following characteristics__: 
 
@@ -17,7 +17,7 @@ Our off-grid Internet design fulfills this gap by tailoring it to those with low
         3) Have between 1–2 Internet service providers (ISPs)
         4) Low education level. 
 
-Income may be the most transparent factor as it correlates to the geographic variations of the amount of ISPs and education level. Currently, **80 – 90% of the most affluent** households in the United States have Internet at home, in contrast to **50% of the those with the lowest median income**. With that, our team will target rural communities as poverty and disability rates are higher than urban areas. Additionally they have less physical and financial access to resources, which translates to very few ISPs; thus, a lack of competition leads to overpriced and poor quality of services. 1 in 3 have only 1 ISP and majority of the rest have only 2 [].
+Income may be the most transparent factor as it correlates to the geographic variations of the amount of ISPs and education level **[2]**. Currently, **80 – 90% of the most affluent** households in the United States have Internet at home, in contrast to **50% of the those with the lowest median income [3]**. With that, our team will target rural communities as poverty and disability rates are higher than urban areas. Additionally they have less physical and financial access to resources, which translates to very few ISPs; thus, a lack of competition leads to overpriced and poor quality of services. 1 in 3 have only 1 ISP and majority of the rest have only 2 **[4]**.
 
 ## Community / Location 
 Numerous communities fit the listed characteristics from the “Users” section. Our focus will be on areas that match all three characteristics. __They include__: 
@@ -27,7 +27,7 @@ Numerous communities fit the listed characteristics from the “Users” section
     3) Southern Texas
     4) Northern Maine
 
-These have clusters of high poverty rates with monopolized ISPs and in isolated geographic areas. Rural Louisiana, Arkansas, Mississippi consist a mix of cultivated agricultural, bayous, and water bodies. West Virginia hugs onto the Appalachian mountains. Southern Texas is isolated from the major cities (i.e. Houston, San Antonio) with a mix of shrub and grass land cover. In Northern Maine, we are incorporating Aroostook County and the unorganized territory since they are sparsely populated areas. Aroostook County has 68,000 people with an area larger than Connecticut and Rhode Island combined. On another note, its’ more remote cousin with no name - <a href = "http://maine.gov/revenue/propertytax/unorganizedterritory/unorganized.htm">unorganized territory of Maine</a> - has a population of only 8000 with an area larger than Maryland. These areas cover a diverse set of constraints especially with respect to geographical, meteorological, and population density concerns.
+These have clusters of high poverty rates with monopolized ISPs and in isolated geographic areas. Rural Louisiana, Arkansas, Mississippi consist a mix of cultivated agricultural, bayous, and water bodies. West Virginia hugs onto the Appalachian mountains. Southern Texas is isolated from the major cities (i.e. Houston, San Antonio) with a mix of shrub and grass land cover. In Northern Maine, we are incorporating Aroostook County and the unorganized territory since they are sparsely populated areas. Aroostook County has 68,000 people with an area larger than Connecticut and Rhode Island combined **[5]**. On another note, its’ more remote cousin with no name - <a href = "http://maine.gov/revenue/propertytax/unorganizedterritory/unorganized.htm">unorganized territory of Maine</a> - has a population of only 8000 with an area larger than Maryland. These areas cover a diverse set of constraints especially with respect to geographical, meteorological, and population density concerns.
 
 ## Technical Feasibility 
 Our solution takes on physical and virtual form, orchestrated by the Named Data Networking (NDN) protocol. The physical product is essentially a box containing a router, small computer, power supply, antennae, and backup battery supply. We call our box **`ANTs (Alternative Network Transmission boxes)`**. This will be our greatest technical hurdle as it requires much research and design to ensure maximized value in addition to overhead of testing hardware. To ensure continued internet access and notifications of blackouts, the ANT comes with a backup battery providing extra hours of power. We envision that ANTs will sit in homes and can be slung on trees allowing for easy installation and widespread access. Powering ANTs outside of homes will likely require plugging onto a nearby power grid (using pvc pipe and wiring) as the majority of the these communities have access to power. Manufacturing the case with aluminum will allow for cost effective, lightweight, and durable properties. Size will be somewhere between a WiFi router and a small shoebox.
@@ -58,4 +58,17 @@ Our hardware accommodates several mediums of transferring information on existin
 
 ## Security and Privacy 
 By design our solution incorporates the best security practices. The device will run mainline Linux ensuring it is secured with up to date packages and modules at no cost to user. Furthermore, adopting the NDN protocol requires that information needs to be encrypted in transit until reaching the requester of the data. Furthermore the architecture of NDN reinforces security by addressing content by name rather than by address (such as IP). Since requests are routed based on content rather than an address, those addresses will be less susceptible to concentrated/targeted attacks. Additionally, network congestion could be reduced with more routers allowing for cached content to be distributed. NDN, however, has its’ own set of tradeoffs and caveats; for instance instead of addresses being targeted for a DDoS attack, content could be targeted instead causing congestions in the network. At this early stage and scale of adoption this won’t be a concern. Ultimately, the NDN protocol goes beyond the security measures of the current TCP/IP protocol given that the protocol does not include security by design and is largely left to participants in the network.
+
+## References 
+1. Levitz, J. (2017, June 5). Rural America Is Stranded in the Dial-Up Age. *The Wall Street Journal*, Retrieved from:          http://bit.ly/2unN8Y2
+
+2. Blelberg, J. and West, D. (2014, Dec. 10). Barriers to Universal Internet Access. *Brookings Institute*, Retrieved from: http://brook.gs/2ilKvCK
+
+3. Dzieza, J. and Bi, F. (2015, July 15). Poverty, more than geography determines who gets online in America. *The Verge*, Retrieved from: http://bit.ly/2yKmGdU
+
+4. Estes, A. (2015, March 3). Why America's Internet Is So Shitty and Slow. *Gizmodo*, Retrieved from: http://bit.ly/2z661Wp
+
+5. Aroostook County Government. (2017). Aroostook County Quick Facts. Retrieved from: https://aroostook.me.us 
+
+
 
