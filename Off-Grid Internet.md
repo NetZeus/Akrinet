@@ -71,3 +71,4 @@ During an event such as that of a disaster all data can not be treated equal. On
 [12]:https://medium.com/@edoardo849/turn-a-raspberrypi-3-into-a-wifi-router-hotspot-41b03500080e
 [13]:https://www.wired.com/2014/01/its-time-to-take-mesh-networks-seriously-and-not-just-for-the-reasons-you-think/
 [14]:https://www.technologyreview.com/s/404601/from-the-editor-mesh-networking-matters/
+[15]:
