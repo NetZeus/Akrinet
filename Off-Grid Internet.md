@@ -33,15 +33,15 @@ With time being of the essence and an absence of infrastructure, it is critical 
 | Network               |                                                                       |
 | Transport             |                                                                       |
 
-Each layers' concerns and tradeoffs are also identified in the below table:  
+Each layers' requirements are also identified in the below table:  
 
 
-| Layer                 | Concerns                                                                               | Existing Solutions  |
-| --------------------- |:---------------------------------------------------------------------------------------|:--------------------|
-| Physical              |<ul><li>Mobility</li><li>Link Adaptation</li><li>Variable Transmission Power</li><li>Multiple Transceivers</li><li>Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul>|                     |
-| Medium Access Control |<ul><li>Multipoint Communication</li></ul>             |                     |
-| Network               |<ul><li>Routing Protocol</li><li>Scalability/Efficiency</li><li>Reliability</li><li>Mobile User Connectivity</li><li>Flexibility</li><li>Quality of service (QoS)</li><li>Fairness</li></ul>                      |                     |
-| Transport             |                                                                                        |                     | 	
+| Layer                 | Requirements                                                                           
+| --------------------- |:---------------------------------------------------------------------------------------
+| Physical              |<ul><li>Mobility</li><li>Link Adaptation</li><li>Stable Transmission Power</li><li>Multiple Transceivers</li><li>Effective Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul>|
+| Medium Access Control |<ul><li>Multipoint Communication System</li></ul>             |
+| Network               |<ul><li>Routing Protocol</li><li>Scalability/Efficiency</li><li>Reliability</li><li>Mobile User Connectivity</li><li>Flexibility</li><li>Quality of Service (QoS)</li><li>Fairness</li></ul>                      |
+| Transport             |                                                                                        | 	
 
 Our solution covers the hardware constraints and concerns of range. To address issues concerning speed, resiliency, and fault tolerance, NDN will run on ANT. NDN is an internet architecture that promotes reusing TCP/IP's successful components while addressing its' shortcomings. One of the most significant changes is addressing content by name rather than by address. Requests are made by searching for cached content on the network, which are encrypted and tagged, and retrieves the content from the closest source. This prevents making a cross-country/global trip to get content and fetches it from the nearest source caching it instead. This allows access speeds to increase given that it cuts down on the distance and logistics of fetching content. There is a dedicated community, codebase, and investment from the NSF which makes this technology very attractive for this project as well as the future of the internet itself.
 
