@@ -38,7 +38,7 @@ And their respective tradeoffs:
 
 | Layer                 | Concerns                                                                               | Existing Solutions  |
 | --------------------- |:---------------------------------------------------------------------------------------|:--------------------|
-| Physical              | <ul><li>mobility</li><li>link adaptation</li><li>variable transmission power</li><li>multiple transceivers</li><li>directional antennas</li><li>link quality feedback</li><li>transceiver performance</li></ul>|                     |
+| Physical              |<ul><li>Mobility</li><li>Link Adaptation</li><li>Variable Transmission Power</li><li>Multiple Transceivers</li><li>Directional Antennas</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul>|                     |
 | Medium Access Control |                                                                                        |                     |
 | Network               |                                                                                        |                     |
 | Transport             |                                                                                        |                     | 	
