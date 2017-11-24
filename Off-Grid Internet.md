@@ -38,7 +38,7 @@ And their respective tradeoffs:
 
 | Layer                 | Concerns                                                                               | Existing Solutions  |
 | --------------------- |:---------------------------------------------------------------------------------------|:--------------------|
-| Physical              | <ul><li>Fading</li><li>Data Capacity</li><li>Power</li><li>Transmission Rates</li></ul>|                     |
+| Physical              | <ul><li>mobility</li><li>link adaptation</li><li>variable transmission power</li><li>multiple transceivers</li><li>directional antennas</li><li>link quality feedback</li><li>transceiver performance</li></ul>|                     |
 | Medium Access Control |                                                                                        |                     |
 | Network               |                                                                                        |                     |
 | Transport             |                                                                                        |                     | 	
