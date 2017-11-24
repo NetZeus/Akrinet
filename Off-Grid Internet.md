@@ -38,7 +38,7 @@ Each layers' requirements are also identified in the below table:
 
 | Layer                 | Requirements                                                                           
 | --------------------- |:---------------------------------------------------------------------------------------
-| Physical              |<ul><li>Mobility</li><li>Link Adaptation</li><li>Stable Transmission Power</li><li>Multiple Transceivers</li><li>Effective Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul>|
+| Physical              |<ul><li>Mobility</li><li>Link Adaptation</li><li>Stable Transmission Power</li><li>Multiple Transceivers</li><li>Effective Signal Strength</li><li>Link Quality Feedback</li><li>High Performing Transceivers</li></ul>|
 | Medium Access Control |<ul><li>Multipoint Communication System</li></ul>             |
 | Network               |<ul><li>Routing Protocol</li><li>Scalability/Efficiency</li><li>Reliability</li><li>Mobile User Connectivity</li><li>Flexibility</li><li>Quality of Service (QoS)</li><li>Fairness</li></ul>                      |
 | Transport             |                                                                                        | 	
