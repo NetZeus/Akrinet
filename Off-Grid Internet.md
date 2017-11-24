@@ -26,12 +26,12 @@ Currently, research into desirable budget hardware running secure communications
 
 With time being of the essence and an absence of infrastructure, it is critical for the item to be lightweight, portable, durable, and accessible to many from a reasonable range. Additionally, it must overcome data congestion issues prevalent in disasters. Furthermore, it must be able to transmit data quickly, resiliently, and, if possible, in a fault tolerant manner to prevent the loss of the data/ messages. While existing P2P/ wireless mesh networks address the issue of maintaining a network **\[[13][13]]\[[14][14]]**, they often fall behind in range, speed, and reliability **\[[15][15]]**. With respect to establishing a wireless mesh network, these concerns can be broken down into 4 core layers: 
 
-| Layer                 |Description                                                            | Concerns              | Existing Solutions  |
-| --------------------- |:----------------------------------------------------------------------|:----------------------| :-------------------|
-| Physical              |Bottom layer, directly concerned with electronic systems and antennae. | Fading\nData Capacity |                     |
-| Medium Access Control |                                                                       |                       |                     |
-| Network               |                                                                       |                       |                     |
-| Transport             |                                                                       |                       |                     | 	
+| Layer                 |Description                                                            | Concerns                   | Existing Solutions  |
+| --------------------- |:----------------------------------------------------------------------|:---------------------------| :-------------------|
+| Physical              |Bottom layer, directly concerned with electronic systems and antennae. | Fading <br/> Data Capacity |                     |
+| Medium Access Control |                                                                       |                            |                     |
+| Network               |                                                                       |                            |                     |
+| Transport             |                                                                       |                            |                     | 	
 
 Our solution covers the hardware constraints and concerns of range. To address issues concerning speed, resiliency, and fault tolerance, NDN will run on ANT. NDN is an internet architecture that promotes reusing TCP/IP's successful components while addressing its' shortcomings. One of the most significant changes is addressing content by name rather than by address. Requests are made by searching for cached content on the network, which are encrypted and tagged, and retrieves the content from the closest source. This prevents making a cross-country/global trip to get content and fetches it from the nearest source caching it instead. This allows access speeds to increase given that it cuts down on the distance and logistics of fetching content. There is a dedicated community, codebase, and investment from the NSF which makes this technology very attractive for this project as well as the future of the internet itself.
 
