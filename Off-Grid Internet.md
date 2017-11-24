@@ -28,7 +28,7 @@ With time being of the essence and an absence of infrastructure, it is critical 
 
 | Layer                 |Description                                                            | Concerns                   | Existing Solutions  |
 | --------------------- |:----------------------------------------------------------------------|:---------------------------| :-------------------|
-| Physical              |Bottom layer, directly concerned with electronic systems and antennae. | Fading<br/>Data Capacity<br/>Power<br/>Transmission Rates|                     |
+| Physical              |Bottom layer, directly concerned with electronic systems and antennae. | ⋅⋅*Fading<br/>⋅⋅*Data Capacity<br/>⋅⋅*Power<br/>⋅⋅*Transmission Rates|                     |
 | Medium Access Control |                                                                       |                            |                     |
 | Network               |                                                                       |                            |                     |
 | Transport             |                                                                       |                            |                     | 	
