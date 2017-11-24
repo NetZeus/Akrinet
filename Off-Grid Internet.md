@@ -27,7 +27,7 @@ Currently, research into desirable budget hardware running secure communications
 With time being of the essence and an absence of infrastructure, it is critical for the item to be lightweight, portable, durable, and accessible to many from a reasonable range. Additionally, it must overcome data congestion issues prevalent in disasters. Furthermore, it must be able to transmit data quickly, resiliently, and, if possible, in a fault tolerant manner to prevent the loss of the data/ messages. While existing P2P/ wireless mesh networks address the issue of maintaining a network **\[[13][13]]\[[14][14]]**, they often fall behind in range, speed, and reliability **\[[15][15]]**. With respect to establishing a wireless mesh network, these concerns can be broken down into 4 core layers: 
 
 | Layer                 |Description                                                            | Concerns     | Existing Solutions  |
-| --------------------- |----------------------------------------------------------------------:|-------------:| -------------------:|
+| --------------------- |:----------------------------------------------------------------------|:-------------| -------------------:|
 | Physical              |Bottom layer, directly concerned with electronic systems and antennae. | Fading       |                     |
 |                       |                                                                       | Data Capacity|                     |
 | Medium Access Control |                                                                       |              |                     |
