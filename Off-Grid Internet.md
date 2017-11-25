@@ -38,12 +38,12 @@ With time being of the essence and an absence of infrastructure, it is critical 
 
 Practically, this manifested itself in the TCP/IP protocol. The implementation of TCP/IP relative to OSI is as follows: 
 
-| TCP/IP Layer    | OSI Layer                                |
-| ----------------| -----------------------------------------|
-| Network Access  | Physical<br/>Data Link                   | 
-| Internet        | Network                                  |
-| Transport       | Transport                                |
-| Application     | Session<br/>Presentation<br/>Application |
+| TCP/IP Layer    | OSI Layer                                                         |
+| ----------------| ------------------------------------------------------------------|
+| Network Access  | <ul><li>Physical</li><li>Data Link</li></ul>                      | 
+| Internet        | <ul><li>Network</li></ul>                                         |
+| Transport       | <ul><li>Transport</li></ul>                                       |
+| Application     | <ul><li>Session</li><li>Presentation</li><li>Application</li></ul>|
 
 
 Each layers' requirements are also identified in the below table:  
