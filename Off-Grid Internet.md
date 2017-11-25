@@ -36,15 +36,14 @@ With time being of the essence and an absence of infrastructure, it is critical 
 | Presentation | Translation of data between a networking service and an application. Includes: <ul><li>Character Encoding</li><li>Data Compression</li><li>Encryption/Decryption</li></ul>|
 | Application  | High-level APIs. Includes: <ul><li>Resource Sharing</li><li>Remote File Access</li></ul>|
 
-Practically, this manifested itself in the TCP/IP protocol. The implementation of TCP/IP relative to OSI is as follows: 
+Practically, this manifested itself in the TCP/IP protocol. The implementation of TCP/IP relative to OSI is as follows **\[[18][18]]**: 
 
 | Implemented Layering System | OSI Layer                                                         |
 | ----------------------------| ------------------------------------------------------------------|
 | Network Access              | <ul><li>Physical</li><li>Data Link</li></ul>                      | 
-| Internet                    | <ul><li>Network</li></ul>                                         |
-| Transport                   | <ul><li>Transport</li></ul>                                       |
+| Internet (IP)               | <ul><li>Network</li></ul>                                         |
+| Transport (TCP)             | <ul><li>Transport</li></ul>                                       |
 | Application                 | <ul><li>Session</li><li>Presentation</li><li>Application</li></ul>|
-
 
 Each layers' requirements are also identified in the below table:  
 
@@ -105,4 +104,4 @@ During an event such as that of a disaster all data can not be treated equal. On
 [15]:http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7754201
 [16]:https://en.wikipedia.org/wiki/OSI_model
 [17]:https://www.iso.org/ics/35.100/x/
-[18]:
+[18]:https://spectrum.ieee.org/tech-history/cyberspace/osi-the-internet-that-wasnt
