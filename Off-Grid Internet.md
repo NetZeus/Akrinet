@@ -36,6 +36,16 @@ With time being of the essence and an absence of infrastructure, it is critical 
 | Presentation | Translation of data between a networking service and an application. Includes: <ul><li>Character Encoding</li><li>Data Compression</li><li>Encryption/Decryption</li></ul>|
 | Application  | High-level APIs. Includes: <ul><li>Resource Sharing</li><li>Remote File Access</li></ul>|
 
+Practically, this manifested itself in the TCP/IP protocol. The implementation of TCP/IP relative to OSI is as follows: 
+
+| TCP/IP Layer    | OSI Layer                                |
+| ----------------| -----------------------------------------|
+| Network Access  | Physical<br/>Data Link                   | 
+| Internet        | Network                                  |
+| Transport       | Transport                                |
+| Application     | Session<br/>Presentation<br/>Application |
+
+
 Each layers' requirements are also identified in the below table:  
 
 | Layer                 | Concerns                                                                           
