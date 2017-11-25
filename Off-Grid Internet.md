@@ -26,7 +26,6 @@ Currently, research into desirable budget hardware running secure communications
 
 With time being of the essence and an absence of infrastructure, it is critical for the item to be lightweight, portable, durable, and accessible to many from a reasonable range. Additionally, it must overcome data congestion issues prevalent in disasters. Furthermore, it must be able to transmit data quickly, resiliently, and, if possible, in a fault tolerant manner to prevent the loss of the data/ messages. While existing P2P/ Wireless Mesh Networks (WMNs) address the issue of maintaining a network **\[[13][13]]\[[14][14]]**, they often fall behind in range, speed, and reliability **\[[15][15]]**. To improve upon established systems, concerns regarding the etablishing of WMNs must be defined and considered carefully. Conceptually, as instituted by ISO (International Organization for Standardization), an ideal/ model network can be broken down into seven layers as described by OSI (Open Systems Interconnection) **\[[16][16]]\[[17][17]]**:  
 
-<center>
 | Layer        |Function                                                                                                                                |
 | -------------|:---------------------------------------------------------------------------------------------------------------------------------------|
 | Physical     | Transmit & receive raw data over a physical medium (concerned with hardware).                                                          |
@@ -36,18 +35,15 @@ With time being of the essence and an absence of infrastructure, it is critical 
 | Session      | Managing communication sessions/ continuous exchange of information. |
 | Presentation | Translation of data between a networking service and an application. Includes: <ul><li>Character Encoding</li><li>Data Compression</li><li>Encryption/Decryption</li></ul>|
 | Application  | High-level APIs. Includes: <ul><li>Resource Sharing</li><li>Remote File Access</li></ul>|
-</center>
 
 Practically, this manifested itself in the TCP/IP protocol becoming the global standard we use today. The implementation of TCP/IP relative to OSI is as follows **\[[18][18]]**: 
 
-<center>
 | Implemented Layering System | OSI Layer                                                         |
 | ----------------------------| ------------------------------------------------------------------|
 | Network Access              | <ul><li>Physical</li><li>Data Link</li></ul>                      | 
 | Internet (IP)               | <ul><li>Network</li></ul>                                         |
 | Transport (TCP)             | <ul><li>Transport</li></ul>                                       |
 | Application                 | <ul><li>Session</li><li>Presentation</li><li>Application</li></ul>|
-</center>
 
 Each layers' requirements are also identified in the below table:  
 
