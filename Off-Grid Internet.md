@@ -24,7 +24,7 @@ The physical product is essentially a box containing a router, small computer, p
 
 Currently, research into desirable budget hardware running secure communications and NDN is being conducted. We are compiling a database of routing and processing hardware with information about performance, listings of supported software, cost, weight, and dimensions. With this information tradeoffs can be assessed finding the overall best value. The Raspberry Pi 3 (RPI3) is our current choice given its community support, hardware extendability, and security as it runs mainline Linux. It’ll also allow for logging internet speeds to determine sources of slowdowns/bottlenecking of the connection. Most importantly, the RPI3 can flash DD-WRT **\[[7][7]]**, OpenWRT **\[[8][8]]**, and the code running the NDN platform **\[[9][9]]\[[10][10]]\[[11][11]]**. Thus, removing the need of a router altogether provided the appropriate hardware is connected **\[[12][12]]**. The device will likely also sport 3 antenna ports to interface for different communications, notably; WiFi and 4G/ Cellular. 
 
-With time being of the essence and an absence of infrastructure, it is critical for the item to be lightweight, portable, durable, and accessible to many from a reasonable range. Additionally, it must overcome data congestion issues prevalent in disasters. Furthermore, it must be able to transmit data quickly, resiliently, and, if possible, in a fault tolerant manner to prevent the loss of the data/ messages. While existing P2P/ Wireless Mesh Networks (WMNs) address the issue of maintaining a network **\[[13][13]]\[[14][14]]**, they often fall behind in range, speed, and reliability **\[[15][15]]**. To improve upon established systems, concerns regarding the etablishing of WMNs must be defined and considered carefully. Conceptually, as instituted by ISO (International Organization for Standardization), networks should be broken down into seven layers as described by OSI (Open Systems Interconnection):  
+With time being of the essence and an absence of infrastructure, it is critical for the item to be lightweight, portable, durable, and accessible to many from a reasonable range. Additionally, it must overcome data congestion issues prevalent in disasters. Furthermore, it must be able to transmit data quickly, resiliently, and, if possible, in a fault tolerant manner to prevent the loss of the data/ messages. While existing P2P/ Wireless Mesh Networks (WMNs) address the issue of maintaining a network **\[[13][13]]\[[14][14]]**, they often fall behind in range, speed, and reliability **\[[15][15]]**. To improve upon established systems, concerns regarding the etablishing of WMNs must be defined and considered carefully. Conceptually, as instituted by ISO (International Organization for Standardization), networks can be broken down into seven layers as described by OSI (Open Systems Interconnection):  
 
 | Layer        |Function                                                                                                                                |
 | -------------|:---------------------------------------------------------------------------------------------------------------------------------------|
@@ -32,13 +32,11 @@ With time being of the essence and an absence of infrastructure, it is critical 
 | Data Link    | Reliable transmission of data between 2 nodes connected by a physical layer.                                                           |
 | Network      | Structuring & management of a multi-node network. Responsibilities include: <ul><li>Addressing</li><li>Routing</li><li>Traffic Control</li></ul>|
 | Transport    | Reliable transmission of data segments between points on a network. Responsibilities include: <ul><li>Segmentation</li><li>Acknowledgement</li><li>Multiplexing</li></ul>|
-| Session      | |
-| Presentation | |
-| Application  | |
-
+| Session      | Managing communication sessions/ continuous exchange of information. |
+| Presentation | Translation of data between a networking service and an application. Includes: <ul><li>Character Encoding</li><li>Data Compression</li><li>Encryption/Decryption</li></ul>|
+| Application  | High-level APIs. Includes: <ul><li>Resource Sharing</li><li>Remote File Access</li></ul>|
 
 Each layers' requirements are also identified in the below table:  
-
 
 | Layer                 | Concerns                                                                           
 | --------------------- |:---------------------------------------------------------------------------------------
