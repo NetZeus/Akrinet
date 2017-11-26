@@ -53,7 +53,8 @@ After reviewing the history of the internet's architecture, the following concer
 | Internet (IP)               | Current Network Standard in WMN System Struggles With:<br/><br/><ol><li>Routing Protocol\*</li><li>Scalability/Efficiency\*</li><li>Reliability\*</li><li>Mobile User Connectivity\*</li><li>Flexibility\*</li><li>Quality of Service (QoS)\*</li><li>Fairness\*</li></ol>|
 | Transport                   | TCP Protocol Falters With:<br/><br/><ol><li>Transmission<ol><li>Not good for data in single hops\*</li></ol></li><li>Caching<ol><li>Requires client & server (end-to-end points) to be constantly online\*</li></ol></li></ol>|
 | Application                 | |
-|             \*Reference to: **\[[19][19]]** ||
+
+<center>\*Reference to: **\[[19][19]]**</center>
 
 Our solution covers the hardware constraints and concerns of range. To address issues concerning speed, resiliency, and fault tolerance, NDN will run on ANT. NDN is an internet architecture that promotes reusing TCP/IP's successful components while addressing its' shortcomings. One of the most significant changes is addressing content by name rather than by address. Requests are made by searching for cached content on the network, which are encrypted and tagged, and retrieves the content from the closest source. This prevents making a cross-country/global trip to get content and fetches it from the nearest source caching it instead. This allows access speeds to increase given that it cuts down on the distance and logistics of fetching content. There is a dedicated community, codebase, and investment from the NSF which makes this technology very attractive for this project as well as the future of the internet itself.
 
