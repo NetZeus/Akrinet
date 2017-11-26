@@ -50,9 +50,9 @@ After reviewing the history of the internet's architecture, the following concer
 | Implemented Layering System | Concerns                                                          |
 | ----------------------------| ------------------------------------------------------------------|
 | Network Access              | <ol><li>Physical</li><ul><li>Mobility</li><li>Link Adaptation</li><li>Variable Transmission Power</li><li>Multiple Transceivers</li><li>Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul><li>Data Link<ul><li>Multipoint Communication (MAC protocols allow for only single hops) **\[[20][20]]**\*</li></ul></li></ol>| 
-| Internet (IP)               | Current Network Standard in WMN System Struggles With:<br/><br/><ol><li>Routing Protocol\*</li><li>Multicast Scalability/Efficiency\*</li><li>Reliability\*</li><li>Mobile User Connectivity\*</li><li>Flexibility\*</li><li>Quality of Service (QoS)\*</li><li>Fairness\*</li></ol>|
-| Transport                   | TCP Protocol Falters With:<br/><br/><ol><li>Transmission<ol><li>Not good for data in single hops\*</li></ol></li><li>Caching<ol><li>Requires client & server (end-to-end points) to be constantly online\*</li><li>Loss of realtime data\*</li><li>No Latency Requirements\*</li><li>Performance Impairments (bottlenecked throughput due to automatic repeat request)\*</li></ol></li></ol>Additional:<br/><br/>|
-| Application                 | <ol><li>Resource Discovery (DNS works for discovery of online services, not for device/ sensor discovery)\*</li></ol>|
+| Internet (IP)               | Current Network Standard in WMN System Struggles With:<br/><br/><ul><li>Routing Protocol\*</li><li>Multicast Scalability/Efficiency\*</li><li>Reliability\*</li><li>Mobile User Connectivity\*</li><li>Flexibility\*</li><li>Quality of Service (QoS)\*</li><li>Fairness\*</li></ul>|
+| Transport                   | TCP Protocol Falters With:<br/><br/><ul><li>Transmission<ol><li>Not good for data in single hops\*</li></ol></li><li>Caching<ol><li>Requires client & server (end-to-end points) to be constantly online\*</li><li>Loss of realtime data\*</li><li>No Latency Requirements\*</li><li>Performance Impairments (bottlenecked throughput due to automatic repeat request)\*</li></ol></li></ul>Additional:<br/><br/>|
+| Application                 | <ul><li>Resource Discovery (DNS works for discovery of online services, not for device/ sensor discovery)\*</li></ul>|
 
 <center>
 
