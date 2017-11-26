@@ -49,7 +49,7 @@ After reviewing the history of the internet's architecture, the following concer
 
 | Implemented Layering System | Concerns                                                          |
 | ----------------------------| ------------------------------------------------------------------|
-| Network Access              | <ol><li>Physical</li><ul><li>Mobility</li><li>Link Adaptation</li><li>Variable Transmission Power</li><li>Multiple Transceivers</li><li>Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul><li>Data Link<ul><li>Multipoint Communication (MAC protocols allow for only single hops) **\[[19][19]]**</li></ul></li></ol>| 
+| Network Access              | <ol><li>Physical</li><ul><li>Mobility</li><li>Link Adaptation</li><li>Variable Transmission Power</li><li>Multiple Transceivers</li><li>Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul><li>Data Link<ul><li>Multipoint Communication (MAC protocols allow for only single hops) **\[[19][19]]\[[20][20]]**</li></ul></li></ol>| 
 | Internet (IP)               | <ul><li>Routing Protocol</li><li>Scalability/Efficiency</li><li>Reliability</li><li>Mobile User Connectivity</li><li>Flexibility</li><li>Quality of Service (QoS)</li><li>Fairness</li></ul>|
 | Transport                   | TCP Protocol Falters With:<br/><ol><li>Transmission<ol><li>Not good for data in single hops</li></ol></li><li>Caching<ol><li>Requires client & server (end-to-end points) to be constantly online</li></ol></li></ol>|
 | Application                 | |
@@ -108,3 +108,4 @@ During an event such as that of a disaster all data can not be treated equal. On
 [17]:https://www.iso.org/ics/35.100/x/
 [18]:https://spectrum.ieee.org/tech-history/cyberspace/osi-the-internet-that-wasnt
 [19]:https://named-data.net/wp-content/uploads/2016/02/ndn-0038-1-challenges-iot.pdf
+[20]:http://user.it.uu.se/~erikn/papers/Realman05.pdf
