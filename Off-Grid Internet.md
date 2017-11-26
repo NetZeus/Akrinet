@@ -50,7 +50,7 @@ After reviewing the history of the internet's architecture, the following concer
 | Implemented Layering System | Concerns                                                          |
 | ----------------------------| ------------------------------------------------------------------|
 | Network Access              | <ol><li>Physical</li><ul><li>Mobility</li><li>Link Adaptation</li><li>Variable Transmission Power</li><li>Multiple Transceivers</li><li>Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul><li>Data Link<ul><li>Multipoint Communication (MAC protocols allow for only single hops) **\[[19][19]]\[[20][20]]**</li></ul></li></ol>| 
-| Internet (IP)               | Current Network Standard in WMN System Struggles With:<br/><ul><li>Routing Protocol\*</li><li>Scalability/Efficiency\*</li><li>Reliability\*</li><li>Mobile User Connectivity\*</li><li>Flexibility\*</li><li>Quality of Service (QoS)\*</li><li>Fairness\*</li></ul><br/>\*Reference to: **\[[19][19]]**|
+| Internet (IP)               | Current Network Standard in WMN System Struggles With:<br/><br/><ul><li>Routing Protocol\*</li><li>Scalability/Efficiency\*</li><li>Reliability\*</li><li>Mobile User Connectivity\*</li><li>Flexibility\*</li><li>Quality of Service (QoS)\*</li><li>Fairness\*</li></ul>\*Reference to: **\[[19][19]]**|
 | Transport                   | TCP Protocol Falters With:<br/><ol><li>Transmission<ol><li>Not good for data in single hops</li></ol></li><li>Caching<ol><li>Requires client & server (end-to-end points) to be constantly online</li></ol></li></ol>|
 | Application                 | |
 
