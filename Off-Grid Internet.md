@@ -51,7 +51,7 @@ After reviewing the history of the internet's architecture, the following concer
 | ----------------------------| ------------------------------------------------------------------|
 | Network Access              | <ol><li>Physical</li><ul><li>Mobility</li><li>Link Adaptation</li><li>Variable Transmission Power</li><li>Multiple Transceivers</li><li>Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul><li>Data Link<ul><li>Multipoint Communication (MAC protocols allow for only single hops) **\[[19][19]]**</li></ul></li></ol>| 
 | Internet (IP)               | <ul><li>Routing Protocol</li><li>Scalability/Efficiency</li><li>Reliability</li><li>Mobile User Connectivity</li><li>Flexibility</li><li>Quality of Service (QoS)</li><li>Fairness</li></ul>|
-| Transport (TCP)             | TCP Protocol Falters With:<br/><ul><li>Transmission<ol><li>Not good for data in single hops</li></ol></li><li>Caching<ol><li>Requires client & server (end-to-end points) to be constantly online</li></ol></li>|
+| Transport                   | TCP Protocol Falters With:<br/><ol><li>Transmission<ol><li>Not good for data in single hops</li></ol></li><li>Caching<ol><li>Requires client & server (end-to-end points) to be constantly online</li></ol></li></ol>|
 | Application                 | |
 
 
