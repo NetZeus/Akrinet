@@ -38,6 +38,8 @@ With time being of the essence and an absence of infrastructure, it is critical 
 
 Practically, this manifested itself in the TCP/IP protocol becoming the global standard we use today. The implementation of TCP/IP relative to OSI is as follows **\[[18][18]]**: 
 
+<center>
+
 | Implemented Layering System | OSI Layer                                                         |
 | ----------------------------| ------------------------------------------------------------------|
 | Network Access              | <ul><li>Physical</li><li>Data Link</li></ul>                      | 
@@ -45,13 +47,15 @@ Practically, this manifested itself in the TCP/IP protocol becoming the global s
 | Transport (TCP)             | <ul><li>Transport</li></ul>                                       |
 | Application                 | <ul><li>Session</li><li>Presentation</li><li>Application</li></ul>|
 
+</center>
+
 After reviewing the history of the internet's architecture, the following concerns (at each layer) were identified as it relates to this project: 
 
 | Implemented Layering System | Concerns                                                          |
 | ----------------------------| ------------------------------------------------------------------|
-| Network Access              | <ol><li>Physical</li><ul><li>Mobility</li><li>Link Adaptation</li><li>Variable Transmission Power</li><li>Multiple Transceivers</li><li>Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul><li>Data Link<ul><li>Multipoint Communication</li></ul></li></ol>| 
+| Network Access              | <ol><li>Physical</li><ul><li>Mobility</li><li>Link Adaptation</li><li>Variable Transmission Power</li><li>Multiple Transceivers</li><li>Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul><li>Data Link<ul><li>Multipoint Communication (MAC protocols allow for only single hops)</li></ul></li></ol>| 
 | Internet (IP)               | <ul><li>Routing Protocol</li><li>Scalability/Efficiency</li><li>Reliability</li><li>Mobile User Connectivity</li><li>Flexibility</li><li>Quality of Service (QoS)</li><li>Fairness</li></ul>|
-| Transport (TCP)             | <ul><li>Transport</li></ul>                                       |
+| Transport (TCP)             | <ul><li></li></ul>                                       |
 | Application                 | |
 
 Our solution covers the hardware constraints and concerns of range. To address issues concerning speed, resiliency, and fault tolerance, NDN will run on ANT. NDN is an internet architecture that promotes reusing TCP/IP's successful components while addressing its' shortcomings. One of the most significant changes is addressing content by name rather than by address. Requests are made by searching for cached content on the network, which are encrypted and tagged, and retrieves the content from the closest source. This prevents making a cross-country/global trip to get content and fetches it from the nearest source caching it instead. This allows access speeds to increase given that it cuts down on the distance and logistics of fetching content. There is a dedicated community, codebase, and investment from the NSF which makes this technology very attractive for this project as well as the future of the internet itself.
