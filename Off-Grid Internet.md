@@ -120,4 +120,8 @@ During an event such as that of a disaster all data can not be treated equal. On
 [25]:https://www.shinyapps.io/
 
 ## References 
-\[1\] “Syria, Venezuela, Ukraine: Internet Under Fire | Dyn Blog.” Dyn Syria Venezuela Ukraine Internet Under Fire Comments, Oracle + Dyn, 26 Feb. 2014, dyn.com/blog/internetunderfire/.
+1. “Syria, Venezuela, Ukraine: Internet Under Fire | Dyn Blog.” Dyn Syria Venezuela Ukraine Internet Under Fire Comments, Oracle + Dyn, 26 Feb. 2014, dyn.com/blog/internetunderfire/.
+2. Lee, Timothy B. “40 Maps That Explain the Internet.” Vox.com, Vox, 2 June 2014, www.vox.com/a/internet-maps#list-18.
+3. “List of Disasters by Cost.” Wikipedia, Wikimedia Foundation, 2017, en.wikipedia.org/wiki/List_of_disasters_by_cost.
+4. THE ASSOCIATED PRESS. “Ice Storm Cripples Parts of Northeast.” The New York Times, The New York Times, 12 Dec. 2008, www.nytimes.com/2008/12/12/us/12cnd-storm.html.
+5. Bishaw, Alemayehu, and Craig Benson. “Poverty: 2015 and 2016: American Community Survey Briefs.” ACS, vol. 16, no. 01, Sept. 2017, pp. 3–4., doi:https://www.census.gov/content/dam/Census/library/publications/2017/acs/acsbr16-01.pdf.
