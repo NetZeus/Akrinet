@@ -120,4 +120,4 @@ During an event such as that of a disaster all data can not be treated equal. On
 [25]:https://www.shinyapps.io/
 
 ##References 
-[1] “Syria, Venezuela, Ukraine: Internet Under Fire | Dyn Blog.” Dyn Syria Venezuela Ukraine Internet Under Fire Comments, Oracle + Dyn, 26 Feb. 2014, dyn.com/blog/internetunderfire/.
+\[1\] “Syria, Venezuela, Ukraine: Internet Under Fire | Dyn Blog.” Dyn Syria Venezuela Ukraine Internet Under Fire Comments, Oracle + Dyn, 26 Feb. 2014, dyn.com/blog/internetunderfire/.
