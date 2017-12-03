@@ -158,11 +158,11 @@ During an event such as that of a disaster all data can not be treated equal. On
 
 19. Russell, Andrew L. “OSI: The Internet That Wasn’t.” IEEE Spectrum: Technology, Engineering, and Science News, IEEE Spectrum, 29 July 2013, https://spectrum.ieee.org/tech-history/cyberspace/osi-the-internet-that-wasnt.
 
-20. 
+20. Shang, Wentao, et al. “Challenges in IoT Networking via TCP/IP Architecture.” 10 Feb. 2016, doi:https://named-data.net/wp-content/uploads/2016/02/ndn-0038-1-challenges-iot.pdf.
 
-21.
+21. 
 
-22.
+22. 
 
 23. “Build Software Better, Together.” GitHub, https://github.com/.
 
