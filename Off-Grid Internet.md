@@ -116,6 +116,6 @@ During an event such as that of a disaster all data can not be treated equal. On
 [20]:http://user.it.uu.se/~erikn/papers/Realman05.pdf
 [21]:https://named-data.net/wp-content/uploads/2014/10/named_data_networking_ccr.pdf
 
-[22]:github.com
+[22]:https://github.com/
 [23]:https://storymaps.arcgis.com/en/
 [24]:https://www.shinyapps.io/
