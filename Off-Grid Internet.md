@@ -160,9 +160,9 @@ During an event such as that of a disaster all data can not be treated equal. On
 
 20. Shang, Wentao, et al. “Challenges in IoT Networking via TCP/IP Architecture.” 10 Feb. 2016, doi:https://named-data.net/wp-content/uploads/2016/02/ndn-0038-1-challenges-iot.pdf.
 
-21. 
+21. Rohner, Christian, et al. “Interactions between TCP, UDP and Routing Protocols in Wireless Multi-hop Ad hoc Networks.” 30 Jun. 2005, doi:http://user.it.uu.se/~erikn/papers/Realman05.pdf.
 
-22. 
+22. Zhang, Lixia, et al. “Named Data Networking.” Jul. 2014, doi:https://named-data.net/wp-content/uploads/2014/10/named_data_networking_ccr.pdf.
 
 23. “Build Software Better, Together.” GitHub, https://github.com/.
 
