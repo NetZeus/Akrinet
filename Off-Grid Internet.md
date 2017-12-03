@@ -97,7 +97,7 @@ During an event such as that of a disaster all data can not be treated equal. On
 [2]:https://www.vox.com/a/internet-maps#list-18
 [3]:https://en.wikipedia.org/wiki/List_of_disasters_by_cost
 [4]:http://www.nytimes.com/2008/12/12/us/12cnd-storm.html
-[5]:https://www.census.gov/quickfacts/fact/table/PR#viewtop
+[5]:https://www.census.gov/content/dam/Census/library/publications/2017/acs/acsbr16-01.pdf
 [6]:https://www.usatoday.com/story/news/world/2017/10/30/puerto-rico-power-restoration-why-taking-so-long/806747001/
 [7]:https://www.wired.com/story/in-puerto-rico-no-power-means-no-telecommunications/
 [8]:https://raspberrypi.stackexchange.com/questions/67600/can-my-rpi3-running-raspbian-be-used-to-flash-dd-wrt-on-to-a-compatible-router
@@ -120,5 +120,4 @@ During an event such as that of a disaster all data can not be treated equal. On
 [25]:https://www.shinyapps.io/
 
 ##References 
-[1] 
-[2] “List of Disasters by Cost.” Wikipedia, Wikimedia Foundation, 15 Nov. 2017, en.wikipedia.org/wiki/List_of_disasters_by_cost.
+[1] “Syria, Venezuela, Ukraine: Internet Under Fire | Dyn Blog.” Dyn Syria Venezuela Ukraine Internet Under Fire Comments, Oracle + Dyn, 26 Feb. 2014, dyn.com/blog/internetunderfire/.
