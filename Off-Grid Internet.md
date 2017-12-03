@@ -36,7 +36,7 @@ With time being of the essence and an absence of infrastructure, it is critical 
 | Presentation | Translation of data between a networking service and an application. Includes: <ul><li>Character Encoding</li><li>Data Compression</li><li>Encryption/Decryption</li></ul>|
 | Application  | High-level APIs. Includes: <ul><li>Resource Sharing</li><li>Remote File Access</li></ul>|
 
-Practically, this manifested itself in the TCP/IP protocol becoming the global standard we use today. The implementation of TCP/IP relative to OSI is as follows **\[[20][20]]**: 
+Practically, this manifested itself in the TCP/IP protocol becoming the global standard we use today. The implementation of TCP/IP relative to OSI is as follows **\[[19][19]]**: 
 
 | Implemented TCP Layering System | OSI Layer                                                         |
 | ----------------------------| ------------------------------------------------------------------|
@@ -49,7 +49,7 @@ After reviewing the history of the internet's architecture, the following concer
 
 | Implemented TCP Layering System | Concerns for Off-Grid Internet                                    |
 | --------------------------------| ------------------------------------------------------------------|
-| Network Access                  | <ol><li>Physical</li><ul><li>(Random) Mobility</li><li>Link Adaptation</li><li>Variable Transmission Power</li><li>Multiple Transceivers</li><li>Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul><li>Data Link<ul><li>Multipoint Communication (MAC protocols allow for only single hops) **\[[19][19]]**\*</li></ul></li></ol>| 
+| Network Access                  | <ol><li>Physical</li><ul><li>(Random) Mobility</li><li>Link Adaptation</li><li>Variable Transmission Power</li><li>Multiple Transceivers</li><li>Signal Strength</li><li>Link Quality Feedback</li><li>Transceiver Performance</li></ul><li>Data Link<ul><li>Multipoint Communication (MAC protocols allow for only single hops) **\[[21][21]]**\*</li></ul></li></ol>| 
 | Internet (IP)                   | Current Network Standard in WMN System Struggles With:<br/><br/><ul><li>Routing Protocol\*</li><li>Multicast Scalability/Efficiency\*</li><li>Reliability\*</li><li>Mobile User Connectivity\*</li><li>Flexibility\*</li><li>Quality of Service (QoS)\*</li><li>Fairness\*</li></ul>|
 | Transport                       | TCP Protocol Falters With:<br/><br/><ul><li>Transmission<ol><li>Not good for data in single hops\*</li><li>Inherent traffic flow control (flow balance)</li><li>Poor adaptive routing and forwarding capabilities (does not deal with wildly fluctuating network path)</li><li>QoS and bandwidth reservation</li></ol></li><li>Security: cryptographic authentication of every single packet</li></ul>|
 | Application                     | <ul><li>Resource Discovery (DNS works for discovery of online services, not for device/ sensor discovery)\*</li><li>Caching<ol><li>Requires client & server (end-to-end points) to be constantly online\*</li><li>Loss of realtime data\*</li><li>No Latency Requirements\*</li><li>Performance Impairments (bottlenecked throughput due to automatic repeat request)\*</li></ol></li></ul>|
@@ -57,7 +57,7 @@ After reviewing the history of the internet's architecture, the following concer
 
 <center>
 
-\*Reference to: **\[[21][21]]**
+\*Reference to: **\[[20][20]]**
 
 </center>
 
