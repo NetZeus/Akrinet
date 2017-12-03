@@ -123,7 +123,7 @@ During an event such as that of a disaster all data can not be treated equal. On
 1. “Syria, Venezuela, Ukraine: Internet Under Fire | Dyn Blog.” Dyn Syria Venezuela Ukraine Internet Under Fire Comments, Oracle + Dyn, 26 Feb. 2014, https://dyn.com/blog/internetunderfire/.
 
 2. Lee, Timothy B. “40 Maps That Explain the Internet.” Vox.com, Vox, 2 June 2014, www.vox.com/a/internet-maps#list-18.
-
+ shinyapps.io by RStudio, https://www.shinyapps.io/
 3. “List of Disasters by Cost.” Wikipedia, Wikimedia Foundation, 2017, https://en.wikipedia.org/wiki/List_of_disasters_by_cost.
 
 4. THE ASSOCIATED PRESS. “Ice Storm Cripples Parts of Northeast.” The New York Times, The New York Times, 12 Dec. 2008, www.nytimes.com/2008/12/12/us/12cnd-storm.html.
@@ -151,3 +151,21 @@ During an event such as that of a disaster all data can not be treated equal. On
 15. Pontin, Jason. “From the Editor: Mesh Networking Matters.” MIT Technology Review, MIT Technology Review, 30 Dec. 2013, www.technologyreview.com/s/404601/from-the-editor-mesh-networking-matters/.
 
 16. S. Y. Shahdad, A. Sabahath and R. Parveez, "Architecture, issues and challenges of wireless mesh network," 2016 International Conference on Communication and Signal Processing (ICCSP), Melmaruvathur, 2016, pp. 0557-0560. doi: 10.1109/ICCSP.2016.7754201 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7754201&isnumber=7754082
+
+17. “OSI Model.” Wikipedia, Wikimedia Foundation, 15 Nov. 2017, en.wikipedia.org/wiki/OSI_model.
+
+18. “35.100 - Open Systems Interconnection (OSI).” 35.100 - Open Systems Interconnection (OSI), International Organization for Standardization, www.iso.org/ics/35.100/x/.
+
+19. Russell, Andrew L. “OSI: The Internet That Wasn’t.” IEEE Spectrum: Technology, Engineering, and Science News, IEEE Spectrum, 29 July 2013, https://spectrum.ieee.org/tech-history/cyberspace/osi-the-internet-that-wasnt.
+
+20. 
+
+21.
+
+22.
+
+23. “Build Software Better, Together.” GitHub, https://github.com/.
+
+24. "Story Maps | Story Maps" Esri, https://storymaps.arcgis.com/en/.
+
+25. "shinyapps.io" shinyapps.io by RStudio, https://www.shinyapps.io/.
