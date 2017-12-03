@@ -136,15 +136,15 @@ During an event such as that of a disaster all data can not be treated equal. On
 
 8. “Can My RPi3 Running Raspbian Be Used to Flash DD-WRT on to a Compatible Router.” Pi 3 - Can My RPi3 Running Raspbian Be Used to Flash DD-WRT on to a Compatible Router - Raspberry Pi Stack Exchange, Stack Exchange, https://raspberrypi.stackexchange.com/questions/67600/can-my-rpi3-running-raspbian-be-used-to-flash-dd-wrt-on-to-a-compatible-router.
 
-9. “OpenWrt Wiki.” Raspberry Pi [OpenWrt Wiki], OpenWrt Wiki, wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi.
+9. “OpenWrt Wiki.” Raspberry Pi [OpenWrt Wiki], OpenWrt Wiki, https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi.
 
 10. Remap. “Remap/Ndn-Pi.” GitHub, 4 July 2017, https://github.com/remap/ndn-pi.
 
-11. 
+11. Jacobson, Van, et al. “Named Data Networking Next Phase (NDN-NP) Project May 2014 - April 2015 Annual Report.” Apr. 2015, pp. 8–15., doi:http://named-data.net/wp-content/uploads/2015/06/ndn-ar2015.pdf.
 
 12. Zhang, Beichuan. “An Overview of NDN Codebase.” 26 Sept. 2016, pp. 5–29., doi:https://named-data.net/wp-content/uploads/2016/10/2-codebase-overview.pdf.
 
-13. Scalafiotti, Edoardo Paolo. “Turn a RaspBerryPi 3 into a WiFi Router-Hotspot – Hacker Noon.” Medium, Medium, 17 June 2016, medium.com/@edoardo849/turn-a-raspberrypi-3-into-a-wifi-router-hotspot-41b03500080e.
+13. Scalafiotti, Edoardo Paolo. “Turn a RaspBerryPi 3 into a WiFi Router-Hotspot – Hacker Noon.” Medium, Medium, 17 June 2016, https://medium.com/@edoardo849/turn-a-raspberrypi-3-into-a-wifi-router-hotspot-41b03500080e.
 
 14. Filippi, Primavera De. “It's Time to Take Mesh Networks Seriously (And Not Just for the Reasons You Think).” Wired, Conde Nast, 3 June 2017, www.wired.com/2014/01/its-time-to-take-mesh-networks-seriously-and-not-just-for-the-reasons-you-think/.
 
@@ -152,7 +152,7 @@ During an event such as that of a disaster all data can not be treated equal. On
 
 16. S. Y. Shahdad, A. Sabahath and R. Parveez, "Architecture, issues and challenges of wireless mesh network," 2016 International Conference on Communication and Signal Processing (ICCSP), Melmaruvathur, 2016, pp. 0557-0560. doi: 10.1109/ICCSP.2016.7754201 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7754201&isnumber=7754082
 
-17. “OSI Model.” Wikipedia, Wikimedia Foundation, 15 Nov. 2017, en.wikipedia.org/wiki/OSI_model.
+17. “OSI Model.” Wikipedia, Wikimedia Foundation, 15 Nov. 2017, https://en.wikipedia.org/wiki/OSI_model.
 
 18. “35.100 - Open Systems Interconnection (OSI).” 35.100 - Open Systems Interconnection (OSI), International Organization for Standardization, www.iso.org/ics/35.100/x/.
 
