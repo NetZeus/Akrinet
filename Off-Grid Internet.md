@@ -129,3 +129,13 @@ During an event such as that of a disaster all data can not be treated equal. On
 4. THE ASSOCIATED PRESS. “Ice Storm Cripples Parts of Northeast.” The New York Times, The New York Times, 12 Dec. 2008, www.nytimes.com/2008/12/12/us/12cnd-storm.html.
 
 5. Bishaw, Alemayehu, and Craig Benson. “Poverty: 2015 and 2016: American Community Survey Briefs.” ACS, vol. 16, no. 01, Sept. 2017, pp. 3–4., doi:https://www.census.gov/content/dam/Census/library/publications/2017/acs/acsbr16-01.pdf.
+
+6. Gomez, Alan, and Rick Jervis. “Puerto Rico Power Restoration: Why It Is Taking so Long.” USA Today, Gannett Satellite Information Network, 31 Oct. 2017, www.usatoday.com/story/news/world/2017/10/30/puerto-rico-power-restoration-why-taking-so-long/806747001/.
+
+7. Rogers, Adam. “In Puerto Rico After Hurricane Maria, No Power Means No Telecommunications.” Wired, Conde Nast, 10 Oct. 2017, www.wired.com/story/in-puerto-rico-no-power-means-no-telecommunications/.
+
+8. “Can My RPi3 Running Raspbian Be Used to Flash DD-WRT on to a Compatible Router.” Pi 3 - Can My RPi3 Running Raspbian Be Used to Flash DD-WRT on to a Compatible Router - Raspberry Pi Stack Exchange, Stack Exchange, https://raspberrypi.stackexchange.com/questions/67600/can-my-rpi3-running-raspbian-be-used-to-flash-dd-wrt-on-to-a-compatible-router.
+
+9. “OpenWrt Wiki.” Raspberry Pi [OpenWrt Wiki], OpenWrt Wiki, wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi.
+
+10. Remap. “Remap/Ndn-Pi.” GitHub, 4 July 2017, https://github.com/remap/ndn-pi.
